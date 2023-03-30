@@ -1,6 +1,6 @@
 # はじめに
 
-このリポジトリは、データ分析コンペティションサイト"SIGNATE"の「ウェザーニューズ × SIGNATE: Weather Challenge：雲画像予測」(https://signate.jp/competitions/169)にて入賞候補となった際に、最終審査用提出物として作成したファイルが元となっています。
+このリポジトリは、データ分析コンペティションサイト"SIGNATE"の「ウェザーニューズ × SIGNATE: Weather Challenge：雲画像予測」( https://signate.jp/competitions/169 )にて入賞候補となった際に、最終審査用提出物として作成したファイルが元となっています。
 
 当コンペティションの解法の概要を以下のページに記述しています。合わせて御覧ください。
 https://signate.jp/competitions/169/discussions/3
